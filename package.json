@@ -30,6 +30,8 @@
     "chai": "^3.5.0",
     "isparta": "^4.0.0",
     "istanbul": "^0.4.5",
+    "jasmine-node": "^1.14.5",
+    "minimatch": "^3.0.3",
     "mocha": "^3.2.0",
     "should": "^11.2.1"
   }
